@@ -21,8 +21,8 @@ The Project entails extraction, transformation, analysis, and visualization of c
 - <b>pandas</b>
 - <b>numpy</b>
 - <b>matplotlib</b>
-- <b>pandas</b>
-- <b>pandas</b>
+- <b>seaborn</b>
+- <b>plotly</b>
 
 <h2>Power BI Dashbord</h2>
 
