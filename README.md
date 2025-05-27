@@ -14,15 +14,14 @@ These insights are designed to support data-driven decision-making in sales stra
 <h2>🛠️ Tools and Technologies</h2>
 
 - 🐍 Programming Language
-Python
+  - Python
 
 - 📊 Business Intelligence
-Power BI
+   - Power BI
 
 - 🧪 Development Environments
-Google Colab
-
-Microsoft Power BI Desktop
+  - Google Colab
+  - Microsoft Power BI Desktop
 
 <h2>📚 Python Libaries Used</h2>
 
