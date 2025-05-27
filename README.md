@@ -1,4 +1,4 @@
-<h1>🛒 Sales Analysis Project</h1>
+<h1>🛒 Merchandise Sales Analysis Project</h1>
 
 
 <h2>📌 Project Overview</h2>
