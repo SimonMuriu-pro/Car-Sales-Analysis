@@ -51,7 +51,7 @@ Microsoft Power BI Desktop
 
 <img src="https://i.imgur.com/ma6Oh78.png" alt="Sales Performance Dashboard" width="600"/>
 
-<h2>7. 👤 Author / Contact </h2>
+<h2>👤 Author / Contact </h2>
 
 <b>Simon Muriu</b> 
 <b>Data Analyst</b>  
