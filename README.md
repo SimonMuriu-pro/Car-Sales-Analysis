@@ -47,7 +47,7 @@ Microsoft Power BI Desktop
 - Analyzed customer demographics influencing sales
 - Built an interactive dashboard for stakeholder and decision-makers 
 
-<h2>Power BI Dashbord</h2>
+<h2>💼 Power BI Dashbord</h2>
 
 <img src="https://i.imgur.com/ma6Oh78.png" alt="Sales Performance Dashboard" width="600"/>
 
