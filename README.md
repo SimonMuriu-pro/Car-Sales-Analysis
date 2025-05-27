@@ -43,9 +43,9 @@ Microsoft Power BI Desktop
 - Power BI dashboard highlighting key insight
 
 <h>✅ Key Outcomes</h>
-- Identified top-performing regionsin sales
+- Identified top-performing regions and underperforming regions
 - Analyzed customer demographics influencing sales
-- Built an interactive dashboard for stakeholder use
+- Built an interactive dashboard for stakeholder and decision-makers 
 
 <h2>Power BI Dashbord</h2>
 
