@@ -1,4 +1,4 @@
-<h1>🚗 Car sales Analysis Project</h1>
+<h1>🛒 Sales Analysis Project</h1>
 
 
 <h2>📌 Project Overview</h2>
@@ -9,7 +9,7 @@ The Project entails extraction, transformation, analysis, and visualization of s
 - Regional performance breakdowns
 - Customer demographic insights
 
-These insights are designed to support data-driven decision-making in the business industry.
+These insights are designed to support data-driven decision-making in sales strategy and operations.
 
 <h2>🛠️ Tools and Technologies</h2>
 
