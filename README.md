@@ -48,7 +48,7 @@ These insights are designed to support data-driven decision-making in sales stra
 
 <h2>💼 Power BI Dashbord</h2>
 
-<img src="https://i.imgur.com/ma6Oh78.png" alt="Sales Performance Dashboard" width="600"/>
+<img src="https://i.imgur.com/5CoGGQj.png" alt="Sales Performance Dashboard" width="600"/>
 
 <h2>👤 Author / Contact </h2>
 
